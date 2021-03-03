@@ -1,11 +1,11 @@
 #include <iostream>
-#include <cstdlib>
+#include <cstdlib>// libreria para usar atoi
 
-typedef float  REAL;
+typedef float  REAL; //me permite definir el tipo de variable que delaro
 
 int main ( int argc, char **argv )
 {
-    int N= std::atoi(argv[1]);
+    int N= std::atoi(argv[1]);// trasformar una cadena en un entero
     REAL  under=1.0;
     REAL  over=1.0;
 
