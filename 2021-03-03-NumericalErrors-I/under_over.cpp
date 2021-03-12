@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>// libreria para usar atoi
 
-typedef float  REAL; //me permite definir el tipo de variable que delaro
+typedef float  REAL; //me permite definir el tipo de variable que declaro
 
 int main ( int argc, char **argv )
 {
